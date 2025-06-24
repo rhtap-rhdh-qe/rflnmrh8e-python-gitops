@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: rflnmrh8e-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/rflnmrh8e-python-gitops
